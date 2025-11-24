@@ -1,7 +1,5 @@
 # Differential Screw 1.0
-![screw_image](3D printed differential screw.jpg)
 ![3D printed differential screw](https://github.com/user-attachments/assets/9c047afc-accc-46f1-9132-919f15b6bca9)
-
 
 A differential screw designed to be 3D printed to demonstrate the concept.
 
