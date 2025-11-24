@@ -6,3 +6,4 @@ This repo contains various small projects.
 **3. Socket Case:** Case for holding a socket set.  
 **4. Connect 4:** Connect 4 board game running in a terminal.  
 **5. Electronic Buzzer:** Simple two tone electronic buzzer.  
+**6. Differential Screw 1.0:**: A simple differential screw that can be 3D printed.  
