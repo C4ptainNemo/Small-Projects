@@ -1,4 +1,5 @@
 # Differential Screw 1.0
+[differential_screw_image](3D printed differential screw.jpg)
 A differential screw designed to be 3D printed to demonstrate the concept.
 
 It uses two screws with different thread pitches to create a small amount of movement in the runner that can be finely controlled (assuming it's manufactured well, i.e. not FDM printed).
