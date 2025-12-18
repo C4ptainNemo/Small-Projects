@@ -7,3 +7,5 @@ This repo contains various small projects.
 **4. Connect 4:** Connect 4 board game running in a terminal.  
 **5. Electronic Buzzer:** Simple two tone electronic buzzer.  
 **6. Differential Screw 1.0:** A simple differential screw that can be 3D printed.  
+**7. Analog Conditioning Circuit:**
+**8. MATLAB Scripts:** MATLAB scripts written for university assignments that didn't deserve their own folder.
